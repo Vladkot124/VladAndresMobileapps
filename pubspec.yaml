@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  equatable: ^2.0.7
+  equatable: ^3.0.0
 
 # Each of the workspaces act as an example.
 #
